@@ -1,0 +1,34 @@
+#img2 {
+  background-image: url("../img/galeria-img1.svg");
+}
+
+#img3 {
+  background-image: url("../img/galeria.img2.svg");
+}
+
+#img4 {
+  background-image: url("../img/galeria-img3.svg");
+}
+
+#img5 {
+  background-image: url("../img/galeria.img4.svg");
+}
+
+#img6 {
+  background-image: url("../img/galeria-img5.svg");
+}
+
+#gallery-container h1 {
+  text-align: center;
+}
+
+#gallery-container h1,
+#gallery-container .col-md-6,
+#gallery-container .col-12 {
+  margin-bottom: 50px;
+}
+
+.small-image-container {
+  height: 250px;
+  margin-bottom: 20px;
+}
